@@ -1,4 +1,7 @@
-# api documentation for  [grunt-webp (v0.0.4)](https://github.com/somerandomdude/grunt-webp)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-webp.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-webp) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-webp.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-webp)
+# npmdoc-grunt-webp
+
+#### basic api documentation for  [grunt-webp (v0.0.4)](https://github.com/somerandomdude/grunt-webp)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-webp.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-webp) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-webp.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-webp)
+
 #### Convert images to WebP format.
 
 [![NPM](https://nodei.co/npm/grunt-webp.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-webp)
@@ -72,7 +75,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "0.0.4"
+    "version": "0.0.4",
+    "bin": {}
 }
 ```
 
